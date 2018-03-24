@@ -21,3 +21,9 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 Not: Eğer makineniz not kurulu değilse https://nodejs.org/en/  bu adresten kurmanız gerekir. 
+Eğer vue js ile ilk defa çalışacaksanız .
+
+``` bash
+npm install vue
+
+komutunu çalıştırarak vue.js makinenize kurabilirsiniz.
